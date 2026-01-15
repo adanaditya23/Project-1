@@ -1,8 +1,8 @@
 # Analisa Pengaruh Kinerja Siswa SMA dalam Ujian
 
 ## Repository Outline
-1. P0M1_Adzan_Aditya.ipynb - Notebook yang berisi penjabaran problem statement dan dataset, kemudian dataset tersebut diolah, dibersihkan, dan di eksplorasi.
-2. P0M1_Adzan_Aditya_dataset.csv - berisi dataset yang akan diolah.
+1. notebook.ipynb - Notebook yang berisi penjabaran problem statement dan dataset, kemudian dataset tersebut diolah, dibersihkan, dan di eksplorasi.
+2. dataset.csv - berisi dataset yang akan diolah.
 
 
 
